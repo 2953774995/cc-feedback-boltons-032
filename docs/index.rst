@@ -125,6 +125,7 @@ Section listing
    namedutils
    pathutils
    queueutils
+   report
    setutils
    socketutils
    statsutils
